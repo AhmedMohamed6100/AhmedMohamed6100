@@ -30,7 +30,7 @@
 ---
 ### 📈 GitHub Activities & Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedMohamed6100&show_icons=true&theme=dracula&count_private=true" alt="Ahmed's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedMohamed6100&show_icons=true&theme=dracula&hide_border=false" alt="Ahmed's Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMohamed6100&theme=dracula" alt="GitHub Streak" />
 </p>
 
