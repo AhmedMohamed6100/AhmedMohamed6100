@@ -1,11 +1,13 @@
 # 💫 Ahmed Mohamed Gouda
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Ahmed+Mohamed+Gouda;Frontend+Developer;Full+Stack+Web+Developer;Software+Engineering+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=34&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=90&lines=Ahmed+Mohamed+Gouda;Frontend+Developer;Full+Stack+Web+Developer;Software+Engineering+Student" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AhmedMohamed6100&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:6C63FF&height=3&section=header&reversal=true"/>
 </p>
+
 
 ---
 
