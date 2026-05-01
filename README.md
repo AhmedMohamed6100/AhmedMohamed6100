@@ -1,62 +1,55 @@
-# 📊 GitHub Stats:
-
+# 💫 About Me
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedMohamed6100&show_icons=true&theme=tokyonight&rank_icon=github" alt="Ahmed's Stats" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=4479A1&center=true&vCenter=true&width=500&lines=Ahmed+Mohamed+Gouda;Full+Stack+Developer;Software+Engineering+Student" alt="Typing SVG" />
+</p>
+
+- 🎓 **Education:** IT Student at **6th of October Technological University** (2023 - 2027).
+- 🏆 **Certification:** Certified Full Stack Developer by **NTI** (Score: **96%**)[cite: 1].
+- 🚀 **Main Tech:** Expert in **React.js**, **Node.js**, and **PHP/Laravel**[cite: 2, 3].
+- 📫 **Contact:** Reach me at **ahmedgoda6100@gmail.com**.
+
+---
+
+# 📊 GitHub Analysis
+<p align="center">
+  <!-- الرسم البياني للنشاط اللي طلبته (Activity Overview) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedMohamed6100&theme=tokyonight" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMohamed6100&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMohamed6100&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedMohamed6100&show_icons=true&theme=tokyonight&count_private=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMohamed6100&layout=compact&theme=tokyonight" height="180em" />
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AhmedMohamed6100&theme=tokyonight&column=4" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AhmedMohamed6100&theme=tokyonight&column=4" width="100%" />
 </p>
 
 ---
 
-# 👋 About Me:
-- 👋 Hi, I'm **Ahmed Mohamed Gouda**, a passionate **Full Stack Developer** from Egypt.
-- 🎓 IT Student at **6th of October Technological University** (Class of 2027)[cite: 2].
-- 🏆 Awarded Full Stack Developer Certificate from **NTI** with an outstanding score of **96%**[cite: 1].
-- 🚀 I'm currently working on advanced Web Applications using **React** and **Node.js**.
-- 🌱 I'm looking to collaborate on Open Source projects and real-world enterprise solutions.
-- ⚡ **Fun Fact:** I enjoy solving complex logic problems and optimizing backend performance.
-
----
-
-# 🌐 Socials:
+# 🛠 Tech Stack
 <p align="left">
-<a href="https://linkedin.com/in/ahmed-mohamed-626651407" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:ahmedgoda6100@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
-# 💻 Tech Stack:
-<p align="left">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
 </p>
 
 ---
 
-# ✍️ Random Dev Quote
+# 🤝 Connect With Me
+<p align="left">
+  <a href="mailto:ahmedgoda6100@gmail.com"><img src="https://img.shields.io/badge/Gmail-ahmedgoda6100@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/ahmed-mohamed-626651407"><img src="https://img.shields.io/badge/LinkedIn-Ahmed_Mohamed-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/AhmedMohamed6100"><img src="https://img.shields.io/badge/GitHub-AhmedMohamed6100-181717?style=flat-square&logo=github&logoColor=white" /></a>
+</p>
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" />
 </p>
