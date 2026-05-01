@@ -1,6 +1,6 @@
 # 💫 Ahmed Mohamed Gouda
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=4479A1&center=true&vCenter=true&width=600&lines=Ahmed+Mohamed+Gouda;Full+Stack+Developer;Software+Engineering+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=4479A1&center=true&vCenter=true&width=600&lines=Ahmed+Mohamed+Gouda;Full+Stack+Web Developer;Front-end+Developer;Software+Engineering+Student" alt="Typing SVG" />
 </p>
 
 ---
