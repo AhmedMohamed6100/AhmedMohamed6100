@@ -28,19 +28,21 @@
 - 🎬 **Follow TV**: Responsive movie platform showcasing advanced CSS and JS animations[cite: 2].
 
 ---
-
 ### 📈 GitHub Activities & Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AhmedMohamed6100&show_icons=true&theme=dracula&count_private=true" alt="Ahmed's Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMohamed6100&theme=dracula" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedMohamed6100&show_icons=true&theme=dracula&count_private=true" alt="Ahmed's Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMohamed6100&theme=dracula" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 🤝 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/ahmed-mohamed-626651407" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ahmed Mohamed" height="30" width="40" /></a>
-<a href="mailto:ahmedgoda6100@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="ahmedgoda6100" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/ahmed-mohamed-626651407" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ahmedgoda6100@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
